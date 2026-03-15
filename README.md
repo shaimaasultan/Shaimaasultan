@@ -79,6 +79,12 @@ This includes:
 
 If you’re interested in algorithms, scientific computing, or building resilient data systems, feel free to reach out or explore my repositories. I’m always open to collaboration and technical discussion.
 
+LINKED IN : https://www.linkedin.com/in/shaimaasoltan/
+
+FACEBOOK : https://www.facebook.com/shaymaasultan.9
+
+YOUTUBE : https://www.youtube.com/@shaimaasoltan5334
+
 ---
 
 ### ⭐ Thanks for visiting my profile!
