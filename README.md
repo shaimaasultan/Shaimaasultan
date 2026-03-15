@@ -101,6 +101,25 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
 *   **Big Data and Predictive Analytics** | Ryerson University
     *   Expertise in: Hadoop, Hive, Pig, R Language, SAS, NoSQL, and Oozie.
 ---
+<div align="left">
+  <h2>🚀 Top BI & Data Projects</h2>
+
+  <!-- Project 1 -->
+  <details open>
+    <summary><b>Data Warehouse ETL Pipeline (SSIS & SQL)</b></summary>
+    <p>A complete ETL process migrating raw transactional data into a star-schema data warehouse.</p>
+    <a href="https://github.com">View Repository</a>
+  </details>
+
+  <!-- Project 2 -->
+  <details>
+    <summary><b>Predictive Analytics Model (Big Data)</b></summary>
+    <p>Advanced data modeling project utilizing predictive analytics techniques from Ryerson University.</p>
+    <a href="https://github.com">View Repository</a>
+  </details>
+</div>
+
+---
 
 ## 📫 Connect With Me
 
