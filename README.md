@@ -79,6 +79,25 @@ This includes:
 - Frameworks that scale — conceptually and computationally  
 
 ---
+## 📜 Professional Journey
+
+### 🇨🇦 Professional Experience in Canada
+*   **Data Engineer** | Self-employed (Jan 2024 – Present)
+*   **SQL Developer** | Extrudex Aluminum, Toronto (Sep 2023 – Nov 2023)
+*   **Senior Business Intelligence Developer** | Ontario Hospital Association (Mar 2021 – Oct 2022)
+*   **Business Intelligence Developer** | Hamilton Health Sciences (Sep 2018 – Mar 2021)
+*   **Data Integration Developer** | AutoCapital Canada Inc. (Apr 2017 – Jul 2018)
+*   **Data Integration Developer** | IPG Mediabrands (Sep 2015 – Mar 2017)
+
+### 🇪🇬 Software Development History
+*   **Software Developer** | Egyptian Customs Applications
+    *   Developed Windows and Web Server applications for Egyptian ports (EL-SOKHNA, ALEXANDRIA).
+    *   Tech Stack: PowerBuilder, C++, SYBASE, ASP.NET, C#.
+
+### 🎓 Specialized Certifications
+*   **Big Data and Predictive Analytics** | Ryerson University
+    *   Expertise in: Hadoop, Hive, Pig, R Language, SAS, NoSQL, and Oozie.
+---
 
 ## 📫 Connect With Me
 
