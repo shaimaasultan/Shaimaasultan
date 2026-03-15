@@ -53,10 +53,10 @@ I value clarity, reproducibility, and elegant solutions that stand the test of t
 | **Core Libraries** | NumPy, SciPy, Pandas, Matplotlib |
 | **Engineering Tools** | Git, Jupyter, Docker |
 | **Domains** | Algorithmic optimization, scientific computing, data engineering |
-| **Data & BI** | ![SQL Server](https://img.shields.io) ![SSIS](https://img.shields.io) ![SSRS](https://img.shields.io) ![ETL](https://img.shields.io) |
-| **Development** | ![C#](https://img.shields.io) ![ASP.NET](https://img.shields.io) ![REST API](https://img.shields.io) |
-| **Analytics** | ![Big Data](https://img.shields.io) ![Predictive Analytics](https://img.shields.io) |
-
+| **Data & BI** | <img src="https://img.shields.io/badge/SQL%20Server-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/SSIS-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/SSRS-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/ETL-gold?style=for-the-badge" /> |
+| **Development** | <img src="https://img.shields.io/badge/C%20Sharp-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/ASP.NET-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST%20API-gold?style=for-the-badge" /> |
+| **Analytics** | <img src="https://img.shields.io/badge/BIG%20Data-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/Predictive%20Analytics-gold?style=for-the-badge" />  |
+  
 ---
 
 ## 🚀 Current Work
