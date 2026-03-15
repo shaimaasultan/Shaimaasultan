@@ -108,14 +108,18 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
   <details open>
     <summary><b>Data Warehouse ETL Pipeline (SSIS & SQL)</b></summary>
     <p>A complete ETL process migrating raw transactional data into a star-schema data warehouse.</p>
-    <a href="https://github.com">View Repository</a>
+    <a href="https://github.com/shaimaasultan/DataConfidentiality">DataConfidentiality View Repository</a>
   </details>
 
   <!-- Project 2 -->
   <details>
     <summary><b>Predictive Analytics Model (Big Data)</b></summary>
     <p>Advanced data modeling project utilizing predictive analytics techniques from Ryerson University.</p>
-    <a href="https://github.com">View Repository</a>
+    <a href="https://github.com/shaimaasultan/ClickStream">Clickstream View Repository</a>
+    <br/>
+    <a href="https://github.com/shaimaasultan/ASKOP">ASKOP View Repository</a>
+    <br/>
+    <a href="https://github.com/shaimaasultan/AIScholarship">AIScholarship View Repository</a>
   </details>
 </div>
 
