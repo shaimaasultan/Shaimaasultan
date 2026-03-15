@@ -53,10 +53,10 @@ I value clarity, reproducibility, and elegant solutions that stand the test of t
 | **Core Libraries** | NumPy, SciPy, Pandas, Matplotlib |
 | **Engineering Tools** | Git, Jupyter, Docker |
 | **Domains** | Algorithmic optimization, scientific computing, data engineering |
+| **Data & BI** | ![SQL Server](https://img.shields.io) ![SSIS](https://img.shields.io) ![SSRS](https://img.shields.io) ![ETL](https://img.shields.io) |
+| **Development** | ![C#](https://img.shields.io) ![ASP.NET](https://img.shields.io) ![REST API](https://img.shields.io) |
+| **Analytics** | ![Big Data](https://img.shields.io) ![Predictive Analytics](https://img.shields.io) |
 
-*   **Data Engineering**: ETL, SSIS, SSRS, SQL Server
-*   **Development**: C#, ASP.NET, RESTful APIs
-*   **Analytics**: Big Data, Predictive Analytics (Ryerson University)
 ---
 
 ## 🚀 Current Work
