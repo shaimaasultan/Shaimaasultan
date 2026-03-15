@@ -14,3 +14,72 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Shaimaa
+
+I’m an algorithm designer and scientific‑computing engineer who thrives on building clean, scalable, and high‑performance systems. My work blends mathematical rigor with practical engineering — from designing optimized prime sieves to architecting robust multi‑wavelength solar‑data pipelines.
+
+I value clarity, reproducibility, and elegant solutions that stand the test of time.
+
+---
+
+## 🔬 Professional Focus
+
+### **Algorithm Design & Optimization**
+- High‑performance numerical algorithms  
+- Pointer‑jumping logic and complexity‑driven design  
+- NumPy‑accelerated computation and vectorized frameworks  
+- Minimal‑overhead, scalable implementations  
+
+### **Scientific Data Engineering**
+- Automated pipelines for large‑scale solar physics data  
+- Multi‑wavelength alignment, archival compatibility, and timestamp normalization  
+- Bridging legacy formats with modern APIs  
+- Robust error‑handling and adaptive retrieval systems  
+
+### **Computational Research**
+- Harmonic‑wheel experiments  
+- Protocol calibration frameworks  
+- Universal, reusable computational modules  
+
+---
+
+## 🛠️ Technical Skill Set
+
+| Category | Tools & Technologies |
+|---------|----------------------|
+| **Languages** | Python, C/C++, Bash |
+| **Core Libraries** | NumPy, SciPy, Pandas, Matplotlib |
+| **Engineering Tools** | Git, Jupyter, Docker |
+| **Domains** | Algorithmic optimization, scientific computing, data engineering |
+
+---
+
+## 🚀 Current Work
+
+I’m building a **universal, automated JSOC export pipeline** for multi‑wavelength solar data.  
+This includes:
+- Intelligent fallback mechanisms for data availability  
+- Timestamp conversion bridging ISO ↔ TAI  
+- Scalable retrieval logic for historical AIA datasets  
+- Integration into a broader research and calibration framework  
+
+---
+
+## 📈 What I Care About
+
+- Clean, maintainable, and elegant code  
+- Transparent complexity analysis  
+- Reproducibility across environments and archives  
+- Systems that adapt gracefully to real‑world data challenges  
+- Frameworks that scale — conceptually and computationally  
+
+---
+
+## 📫 Connect With Me
+
+If you’re interested in algorithms, scientific computing, or building resilient data systems, feel free to reach out or explore my repositories. I’m always open to collaboration and technical discussion.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
