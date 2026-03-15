@@ -123,6 +123,92 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
   </details>
 </div>
 
+<h2>📂 Latest Repositories</h2>
+
+<ul>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/Gravity" target="_blank">
+      <strong>Gravity</strong>
+    </a>
+    <br />
+    <span>
+      Research defining the universe as a dynamic sea of energy, locked by cancellation and freed by movement.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/SSPrime" target="_blank">
+      <strong>SSPrime</strong>
+    </a>
+    <br />
+    <span>
+      Accelerated prime sieve that improves on the classical Sieve of Eratosthenes by iterating only over surviving primes.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/path-cluster-distance-web" target="_blank">
+      <strong>path-cluster-distance-web</strong>
+    </a>
+    <br />
+    <span>
+      Interactive browser‑based visualization suite for pathfinding algorithms and cluster distance exploration.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/SudokuB" target="_blank">
+      <strong>SudokuB</strong>
+    </a>
+    <br />
+    <span>
+      High‑performance, multi‑size Sudoku solver built with efficient constraint‑based logic.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/ANGMathLLMAgents" target="_blank">
+      <strong>ANGMathLLMAgents</strong>
+    </a>
+    <br />
+    <span>
+      LLM‑powered agents designed for automated mathematical reasoning and symbolic problem solving.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/Number_Theory" target="_blank">
+      <strong>Number_Theory</strong>
+    </a>
+    <br />
+    <span>
+      Exploration of prime number patterns, including the relation k = (P − 1) / 2 for prime indexing.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/ShapeArabic" target="_blank">
+      <strong>ShapeArabic</strong>
+    </a>
+    <br />
+    <span>
+      Forensic analysis of Arabic text rendering across PowerShell, Word, and Notepad with reproducible behavior tests.
+    </span>
+  </li>
+
+  <li>
+    <a href="https://github.com/shaimaasultan/Image-Haze-Transformation" target="_blank">
+      <strong>Image-Haze-Transformation</strong>
+    </a>
+    <br />
+    <span>
+      Forensic‑grade haze effects, pixel shifts, and confidence‑based heatmaps for image transformation and analysis.
+    </span>
+  </li>
+
+</ul>
+
 ---
 
 ## 📫 Connect With Me
