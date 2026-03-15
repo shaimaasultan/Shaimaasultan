@@ -167,7 +167,16 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
       High‑performance, multi‑size Sudoku solver built with efficient constraint‑based logic.
     </span>
   </li>
-
+  <li>
+    <a href="https://github.com/shaimaasultan/SquareOfSquares_MagicSquare" target="_blank">
+      <strong>SquareOfSquares_MagicSquare</strong>
+    </a>
+    <br />
+    <span>
+      Mathematical exploration of square-of-squares structures and magic-square symmetry patterns.
+      Impossibility of a $3\times 3$ Magic Square of Distinct Squares
+    </span>
+  </li>
   <li>
     <a href="https://github.com/shaimaasultan/ANGMathLLMAgents" target="_blank">
       <strong>ANGMathLLMAgents</strong>
@@ -207,6 +216,8 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
       Forensic‑grade haze effects, pixel shifts, and confidence‑based heatmaps for image transformation and analysis.Image haze modeling, transformation, and enhancement algorithms.
     </span>
   </li>
+
+
 
 </ul>
 
