@@ -91,6 +91,8 @@ This includes:
 *   **Software Developer** | http://Mar-Kov.com (NOV 2013 - OCT 2014) 
 
 ### 🇪🇬 Software Development History
+*   **Software Developer and BI Developer at Information & Documentation Center- AASTMT** | Arab Academy for Science and Technology  http://www.aast.edu/en/
+Jan 2010 - May 2013 · 3 yrs 5 mos
 *   **Software Developer** | Egyptian Customs Applications
     *   Developed Windows and Web Server applications for Egyptian ports (EL-SOKHNA, ALEXANDRIA).
     *   Tech Stack: PowerBuilder, C++, SYBASE, ASP.NET, C#.
