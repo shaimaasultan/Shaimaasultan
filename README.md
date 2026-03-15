@@ -88,6 +88,7 @@ This includes:
 *   **Business Intelligence Developer** | Hamilton Health Sciences (Sep 2018 – Mar 2021)
 *   **Data Integration Developer** | AutoCapital Canada Inc. (Apr 2017 – Jul 2018)
 *   **Data Integration Developer** | IPG Mediabrands (Sep 2015 – Mar 2017)
+*   **Software Developer** | http://Mar-Kov.com (NOV 2013 - OCT 2014) 
 
 ### 🇪🇬 Software Development History
 *   **Software Developer** | Egyptian Customs Applications
