@@ -133,6 +133,7 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
     </a>
     <br />
     <span>
+      Physics-inspired simulations and gravitational system modeling.
       Research defining the universe as a dynamic sea of energy, locked by cancellation and freed by movement.
     </span>
   </li>
@@ -153,7 +154,7 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
     </a>
     <br />
     <span>
-      Interactive browser‑based visualization suite for pathfinding algorithms and cluster distance exploration.
+      Interactive browser‑based visualization suite for pathfinding algorithms and cluster distance exploration.Web-based visualization of path clustering and distance metrics.
     </span>
   </li>
 
@@ -183,7 +184,7 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
     </a>
     <br />
     <span>
-      Exploration of prime number patterns, including the relation k = (P − 1) / 2 for prime indexing.
+      Exploration of prime number patterns, including the relation k = (P − 1) / 2 for prime indexing.Explorations and implementations of core number theory concepts.
     </span>
   </li>
 
@@ -193,7 +194,7 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
     </a>
     <br />
     <span>
-      Forensic analysis of Arabic text rendering across PowerShell, Word, and Notepad with reproducible behavior tests.
+      Forensic analysis of Arabic text rendering across PowerShell, Word, and Notepad with reproducible behavior tests. Arabic text shaping, rendering, and computational linguistics tools.
     </span>
   </li>
 
@@ -203,7 +204,7 @@ Jan 2008 - May 2013 · 5 yrs 5 mos
     </a>
     <br />
     <span>
-      Forensic‑grade haze effects, pixel shifts, and confidence‑based heatmaps for image transformation and analysis.
+      Forensic‑grade haze effects, pixel shifts, and confidence‑based heatmaps for image transformation and analysis.Image haze modeling, transformation, and enhancement algorithms.
     </span>
   </li>
 
